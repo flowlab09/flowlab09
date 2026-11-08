@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 안녕하세요, flowlee입니다
-
-### 영상에서 시작해, 아이디어를 도구로 만듭니다.
-
-🎬 **Video Production** &nbsp;·&nbsp; 🧊 **3D / Animation** &nbsp;·&nbsp; ✨ **Creative Tools**
+<h1>👋 안녕하세요, flowlee입니다</h1>
+<h3>영상에서 시작해, 아이디어를 도구로 만듭니다.</h3>
+<p>🎬 <strong>Video Production</strong> &nbsp;·&nbsp; 🧊 <strong>3D / Animation</strong> &nbsp;·&nbsp; ✨ <strong>Creative Tools</strong></p>
 
 </div>
 
