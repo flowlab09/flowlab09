@@ -1,34 +1,37 @@
 <div align="center">
-
-<h1>👋 Hi, I'm flowlee</h1>
-<h3>Turning ideas from video production into creative tools.</h3>
-<p>🎬 <strong>Video Production</strong> &nbsp;·&nbsp; 🧊 <strong>3D / Animation</strong> &nbsp;·&nbsp; ✨ <strong>Creative Tools</strong></p>
-
+  <img src="assets/flowlee-banner.svg" alt="flowlee — Make ideas move: video, motion, creative tools" width="100%" />
+  <br /><br />
+  <a href="https://x.com/flowlab09">X / @flowlab09</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/flowlab09/Moa">Explore Moa</a>
 </div>
 
----
+<br />
 
-### 👀 About me
+### Hi, I'm flowlee 👋
 
-- I enjoy video production and motion graphics.
-- I'm exploring 3D and animation with Blender.
-- I build small tools to make creative work easier.
+I work with video, motion, and 3D—and I build small tools around the creative process. I'm learning to code by making things I actually want to use.
 
-### 🛠️ Projects
+### What I'm exploring
 
-| Project | What it does |
-| :--- | :--- |
-| [**Moa**](https://github.com/flowlab09/Moa) | A Windows canvas for arranging text, drawings, images, and videos freely |
-| **Creator tools** | Experiments to simplify video production and repetitive tasks |
+| 🎬 Video & motion | 🧊 3D & animation | ✨ Creative tools |
+| :--- | :--- | :--- |
+| Editing, visual storytelling, and motion graphics | Experiments and animation in Blender | Tools that make creative work easier |
 
-### 🌱 Currently learning
+### Featured project
 
-`Git & GitHub` · `Python` · `After Effects` · `Java`
+<a href="https://github.com/flowlab09/Moa"><img src="https://raw.githubusercontent.com/flowlab09/Moa/main/assets/moa-logo.png" alt="Moa logo" width="72" align="left" /></a>
 
-> I'm still learning to code, one project at a time.
+**[Moa — a personal canvas for Windows](https://github.com/flowlab09/Moa)**
 
----
+A freeform space for arranging text, drawings, images, and videos. Built for collecting ideas and shaping them visually.
 
-<div align="center">
-  <sub>Making small things and learning along the way · 2026</sub>
-</div>
+[View the project →](https://github.com/flowlab09/Moa)
+
+<br clear="left" />
+
+### Currently learning
+
+`Git & GitHub` · `Python` · `Java` · `After Effects`
+
+<sub>One project at a time. Always learning, always making.</sub>
