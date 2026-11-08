@@ -1,60 +1,36 @@
-┌──────────────────────────────────────────┐
+<div align="center">
 
-flowlee
+# 👋 안녕하세요, flowlee입니다
 
-Creative Developer × Video Creator
+### 영상에서 시작해, 아이디어를 도구로 만듭니다.
 
-Building tools for creators,
-animation and video production.
+🎬 **Video Production** &nbsp;·&nbsp; 🧊 **3D / Animation** &nbsp;·&nbsp; ✨ **Creative Tools**
 
-──────────────────────────────────────────
+</div>
 
-CURRENT
+---
 
-🎬 Video Production
-🧊 Blender / Animation
-💻 Creative Coding
-🤖 Automation
+### 👀 About me
 
-──────────────────────────────────────────
+- 영상 제작과 모션 그래픽에 관심이 있습니다.
+- Blender로 3D와 애니메이션을 탐색하고 있습니다.
+- 창작 과정에서 필요한 작은 도구를 만들고 있습니다.
 
-TECH
+### 🛠️ 만드는 것
 
-Python · JavaScript · Java · Rust
-Premiere · After Effects · Blender
+| 프로젝트 | 소개 |
+| :--- | :--- |
+| [**모아 (Moa)**](https://github.com/flowlab09/Moa) | 글, 그림, 이미지, 영상을 자유롭게 놓는 Windows 개인 캔버스 |
+| **Creator tools** | 영상 제작과 반복 작업을 편하게 만드는 도구를 구상하고 실험 중 |
 
-──────────────────────────────────────────
+### 🌱 배우는 중
 
-PROJECTS
+`Git & GitHub` · `Python` · `After Effects` · `Java`
 
-BAN Editor
-Creator Automation
-Blender Tools
-Minecraft Simulation
+> 아직 능숙한 프로그래밍 언어는 없지만, 만들고 싶은 것을 하나씩 구현하며 배우고 있습니다.
 
-──────────────────────────────────────────
+---
 
-LEARNING
-
-2026
-→ Git / GitHub
-→ Python
-→ After Effects
-→ Java
-
-└──────────────────────────────────────────┘
-
-<!--
-**flowlab09/flowlab09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <sub>작은 실험을 쌓아가는 중 · 2026</sub>
+</div>
