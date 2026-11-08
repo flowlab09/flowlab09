@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+<title id="title">flowlee — Make ideas move</title>
+<desc id="desc">A dark purple banner with motion graphics shapes and the words flowlee, Make ideas move, Video, Motion, Creative Tools.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17132e"/><stop offset=".56" stop-color="#101827"/><stop offset="1" stop-color="#112c32"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#b790ff"/><stop offset="1" stop-color="#6ee7df"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="960" height="260" rx="24" fill="url(#bg)"/>
+<circle cx="754" cy="105" r="105" fill="#8255de" opacity=".18" filter="url(#glow)"/>
+<circle cx="871" cy="217" r="100" fill="#39cfc7" opacity=".12" filter="url(#glow)"/>
+<path d="M0 212H960" stroke="#a78bfa" opacity=".16"/>
+<path d="M50 46H330" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+<text x="50" y="101" fill="#f8f7ff" font-family="Arial,Helvetica,sans-serif" font-size="53" font-weight="700" letter-spacing="1">flowlee</text>
+<text x="52" y="145" fill="#cbbcf5" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing="1.3">MAKE IDEAS MOVE</text>
+<text x="52" y="189" fill="#99aabf" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="1.1">VIDEO  /  MOTION  /  CREATIVE TOOLS</text>
+<g transform="translate(676 48)">
+  <rect x="0" y="0" width="188" height="126" rx="14" fill="#251d42" stroke="#9980e1" stroke-width="2"/>
+  <rect x="17" y="17" width="154" height="92" rx="8" fill="#131d33" stroke="#667b9c" stroke-width="1.5"/>
+  <path d="M73 39L116 63L73 87Z" fill="url(#accent)"/>
+  <circle cx="26" cy="8" r="3" fill="#a58ce5"/><circle cx="51" cy="8" r="3" fill="#a58ce5"/><circle cx="76" cy="8" r="3" fill="#a58ce5"/><circle cx="101" cy="8" r="3" fill="#a58ce5"/><circle cx="126" cy="8" r="3" fill="#a58ce5"/><circle cx="151" cy="8" r="3" fill="#a58ce5"/>
+  <circle cx="26" cy="118" r="3" fill="#a58ce5"/><circle cx="51" cy="118" r="3" fill="#a58ce5"/><circle cx="76" cy="118" r="3" fill="#a58ce5"/><circle cx="101" cy="118" r="3" fill="#a58ce5"/><circle cx="126" cy="118" r="3" fill="#a58ce5"/><circle cx="151" cy="118" r="3" fill="#a58ce5"/>
+</g>
+<path d="M617 186C698 212 762 196 826 181" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 11"/>
+<circle cx="617" cy="186" r="7" fill="#b790ff"/><circle cx="826" cy="181" r="7" fill="#6ee7df"/>
+<rect x="0.75" y="0.75" width="958.5" height="258.5" rx="23.25" fill="none" stroke="#8269b1" opacity=".36" stroke-width="1.5"/>
+</svg>
